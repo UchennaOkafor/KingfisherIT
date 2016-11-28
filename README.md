@@ -9,7 +9,7 @@ The system has two tiers, a desktop client written in C# and a web panel written
 ### Client 
 C#
 
-<img src="http://i.imgur.com/OwJyrrO.png">
+<img src="http://i.imgur.com/N3NAMco.png">
 <br>
 The employees use the desktop application to login onto the system.
 
@@ -32,6 +32,14 @@ The data is then submitted to the remote database via a web API
 ___
 
 <img src="http://i.imgur.com/pQiqQYG.png">
+<br>
+The project manager logs in to the web panel (regular employees cannot login via this web panel)
+
 <img src="http://i.imgur.com/riVlaGI.png">
 <img src="http://i.imgur.com/2mFCPJ4.png">
+<br>
+The project manager can then click on projects they manage to view the timesheets submitted for that activity
+
 <img src="http://i.imgur.com/zNqdLvl.png">
+<br>
+Project managers now have the ability to accept or reject timesheets submitted by employees.

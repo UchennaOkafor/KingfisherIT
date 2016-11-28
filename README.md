@@ -32,18 +32,18 @@ The data is then submitted to the remote database via a web API
 ___
 
 <img src="http://i.imgur.com/pQiqQYG.png">
-___
+<br>
 The project manager logs in to the web panel (regular employees cannot login via this web panel)
-
+___
+<br>
+<br>
 <img src="http://i.imgur.com/riVlaGI.png">
 <img src="http://i.imgur.com/2mFCPJ4.png">
 <br>
 <br>
 ___
-The project manager can then click on projects they manage to view the timesheets submitted for that activity
-
 <img src="http://i.imgur.com/zNqdLvl.png">
-<br>
-<br>
-___
+The project manager can then click on projects they manage to view the timesheets submitted for that activity
 Project managers now have the ability to accept or reject timesheets submitted by employees.
+<br>
+<br>
